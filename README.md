@@ -1,4 +1,6 @@
 # Fitting Poisson  distribution
+# Name: A.Kamal raj
+# Ref. no: 212223040082
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
