@@ -21,6 +21,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 2. Events occur independently. I
 3. The rate of occurrence is constant.
 4. The probability of an event occurring is proportional to the length of the time period. 
+
+
+
  
 # Procedure :
 
@@ -29,6 +32,11 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Experiment :
 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
+
+
+
+
+
 
 # Program :
 ```
@@ -68,6 +76,10 @@ if cal_chi2_sq<table_chi2:
 else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
  ```
+
+
+
+
 # Output : 
 ![image](https://github.com/Kamal-Raj-A/Poisson_distribution/assets/145742556/1c537130-73d6-4595-b5ba-e597b5e8876f)
 
